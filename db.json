@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Patch updated with async",
+      "author": "this is a author updated",
+      "id": 2
+    },
+    {
+      "title": "create data",
+      "author": "Some magic create data",
+      "id": 3
+    },
+    {
+      "title": "github",
+      "author": "Power of github you dont know",
+      "id": 4
+    },
+    {
+      "title": "new title",
+      "author": "A new title will test",
+      "id": 5
+    },
+    {
+      "title": "my family",
+      "author": "Here is some information of my family",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "courses": [
+    {
+      "image": "https://images.pexels.com/photos/15577045/pexels-photo-15577045.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Full Courses JavaScript with Evondev",
+      "author": "Evondev",
+      "rating": 4.8,
+      "bestSeller": true,
+      "price": "999$",
+      "buyAmount": 1000,
+      "id": 1
+    },
+    {
+      "image": "https://images.pexels.com/photos/982585/pexels-photo-982585.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Super Courses Python in 8 Hours",
+      "author": "Rick and Morty",
+      "rating": 4.6,
+      "bestSeller": false,
+      "price": "555$",
+      "buyAmount": 700,
+      "id": 2
+    },
+    {
+      "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Courses HTML-CSS for Beginer by Son Dang Fouded F8",
+      "author": "Son Dang ",
+      "rating": 5,
+      "bestSeller": true,
+      "price": "499$",
+      "buyAmount": 1020,
+      "id": 3
+    },
+    {
+      "image": "https://images.pexels.com/photos/6647844/pexels-photo-6647844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Full courses to become a model by Mesd Abat",
+      "author": "Mesa Abits",
+      "rating": 4.5,
+      "bestSeller": true,
+      "price": "440$",
+      "buyAmount": 300,
+      "id": 4
+    },
+    {
+      "image": "https://images.pexels.com/photos/2854978/pexels-photo-2854978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Courses C++ full for Beginer by Adam Jonh full RoadMap",
+      "author": "Adam Jonh",
+      "rating": 4.9,
+      "bestSeller": true,
+      "price": "800$",
+      "buyAmount": 500,
+      "id": 5
+    },
+    {
+      "image": "https://images.pexels.com/photos/5331154/pexels-photo-5331154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Courses Javascript Avanced with REST API by Son Dang",
+      "author": "Founed Son Dang",
+      "rating": 4.8,
+      "bestSeller": true,
+      "price": "999$",
+      "buyAmount": 1000,
+      "id": 7
+    },
+    {
+      "image": "https://images.pexels.com/photos/6282607/pexels-photo-6282607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "Full REST api with Evondev from zero to Hero",
+      "author": "Evondev",
+      "rating": 4.6,
+      "bestSeller": true,
+      "price": "500$",
+      "buyAmount": 300,
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
